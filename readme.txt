@@ -4,7 +4,7 @@ Donate link: none
 Tags: feed, social, auto post, post, cron, facebook, twitter, youtube, flickr, vimeo, instagram
 Requires at least: 3.4.1
 Tested up to: 3.4.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -59,10 +59,6 @@ Initial version of this plugin.
 
 = 1.0.1 =
 Remove bugs.
-
-= 1.0.5 =
-* Add title for posts from facebook
-* Update twitter api 1.1 for get tweets function
 
 == Upgrade Notice == 
 
